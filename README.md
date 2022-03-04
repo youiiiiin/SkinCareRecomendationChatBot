@@ -33,11 +33,12 @@ Here you can ask for company information.
 
 ![](images/10.png)
 
+# Deal with random answers
+
+Sometimes users might enter random answer, so we have to also create a reply and a clear guide to bring them back!
+
 ![](images/11.png)
 
 ![](images/12.png)
 
-![](images/13.png)
-
-![](images/14.png)
 
