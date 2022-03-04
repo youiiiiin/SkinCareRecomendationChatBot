@@ -21,7 +21,7 @@ Here you can choose between knowing more about the product, or just ask for reco
 
 ![](images/4.png)
 
-Here you can ask for company information.
+For users who want to get to know the company better, they can ask for it here!
 
 ![](images/5.png)
 
