@@ -2,6 +2,8 @@
 Meet my chatbot, Vivi! She will give you the best recommendation of skin care from JY-II.
 
 
+
+
 # First, she would like to know your name!
 ![](images/1.png)
 
@@ -42,3 +44,4 @@ Sometimes users might enter random answer, so we have to also create a reply and
 ![](images/12.png)
 
 
+I hope you like my little chatbot and her recommendation!
