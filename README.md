@@ -1,3 +1,43 @@
-# SkinCareRecomendationChatBot
-Meet my chatbot Vivi! She will give you the best recommendation of skin care from JY-II.
+## Skin Care Recomendation Chatbot
+Meet my chatbot, Vivi! She will give you the best recommendation of skin care from JY-II.
+
+
+# First, she would like to know your name!
+![](images/1.png)
+
+# Now, tell her what products you are interested in!
+
+When answering, users might enter with, OR without a '.'(for example: 'a.' or just 'a'). Additionally, some might even type in the name of the product(for example: 'mask').
+That's why when we are writing the regex for this part, we need to enter all kind of possiblities, like symbols or capitalized letters etc.
+
+![](images/2.png)
+
+# Time for some details
+Here you can choose between knowing more about the product, or just ask for recommendation for other products.
+
+![](images/3.png)
+
+![](images/4.png)
+
+Here you can ask for company information.
+
+![](images/5.png)
+
+![](images/6.png)
+
+![](images/7.png)
+
+![](images/8.png)
+
+![](images/9.png)
+
+![](images/10.png)
+
+![](images/11.png)
+
+![](images/12.png)
+
+![](images/13.png)
+
+![](images/14.png)
 
